@@ -20,3 +20,11 @@ Run:
 Run:
 
 > iex -S mix
+
+Run `recompile()` if you want to recompile the project's code in the same interactive session.
+
+### How to format the code
+
+Elixir ships with a code formatter. Just run:
+
+> mix format
